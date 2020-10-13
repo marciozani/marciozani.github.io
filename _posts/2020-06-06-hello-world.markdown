@@ -11,7 +11,3 @@ summary: Just a hello world
 Test post
 
 <script src="https://gist.github.com/marciozani/85964efdf62dbcda0f6aebce58c9cb18.js"></script>
-
-{% if site.disqus.shortname %}
-  {% include disqus_comments.html %}
-{% endif %}
